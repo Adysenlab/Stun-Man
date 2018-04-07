@@ -1,0 +1,8 @@
+<map id="CStunClientTestBase" name="CStunClientTestBase">
+<area shape="rect" id="node2" href="$d2/df1/class_i_stun_client_test.html" title="IStunClientTest" alt="" coords="5,272,119,299"/>
+<area shape="rect" id="node3" href="$de/d01/struct_stun_transaction_id.html" title="StunTransactionId" alt="" coords="143,272,271,299"/>
+<area shape="rect" id="node4" href="$d4/daf/struct_stun_client_results.html" title="StunClientResults" alt="" coords="295,272,423,299"/>
+<area shape="rect" id="node5" href="$d3/d68/class_c_socket_address.html" title="CSocketAddress" alt="" coords="369,95,491,121"/>
+<area shape="rect" id="node7" href="$d3/dc9/struct_stun_client_logic_config.html" title="StunClientLogicConfig" alt="" coords="447,272,599,299"/>
+<area shape="rect" id="node6" href="$d7/d42/unionsimple__sockaddr.html" title="simple_sockaddr" alt="" coords="370,5,490,32"/>
+</map>

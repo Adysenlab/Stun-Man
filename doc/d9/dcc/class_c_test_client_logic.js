@@ -1,0 +1,27 @@
+var class_c_test_client_logic =
+[
+    [ "CTestClientLogic", "d9/dcc/class_c_test_client_logic.html#a6d9924b2b5df942d988089d6479ceaa3", null ],
+    [ "~CTestClientLogic", "d9/dcc/class_c_test_client_logic.html#a7efb88504cba8ba7a85c23fe72817998", null ],
+    [ "CommonInit", "d9/dcc/class_c_test_client_logic.html#abd8c65efb440ee366d3b415f9c1ec3a7", null ],
+    [ "GenerateBindingResponseMessage", "d9/dcc/class_c_test_client_logic.html#a86d39236434ad4ddf985cc9a258d8a04", null ],
+    [ "GetMappedAddressForDestinationAddress", "d9/dcc/class_c_test_client_logic.html#a8b490bc59330e9a8cb817b424aa25207", null ],
+    [ "GetSocketRoleForDestinationAddress", "d9/dcc/class_c_test_client_logic.html#aaeb7e1c5f19483cb5c0a673db384d1da", null ],
+    [ "Run", "d9/dcc/class_c_test_client_logic.html#aa65518dcf83469037f7645eb513bbe27", null ],
+    [ "Test1", "d9/dcc/class_c_test_client_logic.html#a8cdf93c38f9872737932de330b0fcd49", null ],
+    [ "TestBehaviorAndFiltering", "d9/dcc/class_c_test_client_logic.html#a86c7cb0be030e25d69bc1650c1ace9d5", null ],
+    [ "UT_DECLARE_TEST_NAME", "d9/dcc/class_c_test_client_logic.html#a9b02e86185e1891bb51e0a45fbfd5d14", null ],
+    [ "ValidateBindingRequest", "d9/dcc/class_c_test_client_logic.html#ac778754b71074600f70d44022d97a99e", null ],
+    [ "_addrLocal", "d9/dcc/class_c_test_client_logic.html#af892b9faf4787fd5ccf3a2630d279f47", null ],
+    [ "_addrMappedAA", "d9/dcc/class_c_test_client_logic.html#a8f7e7326142c68acdb501e40254ec097", null ],
+    [ "_addrMappedAP", "d9/dcc/class_c_test_client_logic.html#a577f1cf566923108e5e8978a048fa87e", null ],
+    [ "_addrMappedPA", "d9/dcc/class_c_test_client_logic.html#ab07538281e7b5bb2aa81498e3eb05d39", null ],
+    [ "_addrMappedPP", "d9/dcc/class_c_test_client_logic.html#ae3fee948b1974e02db50ba35828bd5c5", null ],
+    [ "_addrServerAA", "d9/dcc/class_c_test_client_logic.html#adbe796c09b85531b3849a87170418737", null ],
+    [ "_addrServerAP", "d9/dcc/class_c_test_client_logic.html#a9df7d824068a815338452f5eb0700785", null ],
+    [ "_addrServerPA", "d9/dcc/class_c_test_client_logic.html#ad479dcdea574b9d6fe358153f20ce103", null ],
+    [ "_addrServerPP", "d9/dcc/class_c_test_client_logic.html#af0941af4ae594a24e9f3b809d9ca9046", null ],
+    [ "_fAllowChangeRequestAA", "d9/dcc/class_c_test_client_logic.html#a6eedf6a6e6635ec38f5dbddb87ea2cea", null ],
+    [ "_fAllowChangeRequestPA", "d9/dcc/class_c_test_client_logic.html#ad29b2514b155fdc8a0df3a3242cedabd", null ],
+    [ "_spClientLogic", "d9/dcc/class_c_test_client_logic.html#ace6522da69ac9f9440032a6f8f1c8d5f", null ],
+    [ "_tsa", "d9/dcc/class_c_test_client_logic.html#a84a6d4ef8aa91745f19e39e583c81b2d", null ]
+];

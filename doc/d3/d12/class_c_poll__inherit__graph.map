@@ -1,0 +1,6 @@
+<map id="CPoll" name="CPoll">
+<area shape="rect" id="node2" href="$db/d35/class_c_basic_ref_count.html" title="CBasicRefCount" alt="" coords="5,80,127,107"/>
+<area shape="rect" id="node3" href="$d1/d9a/class_c_object_factory.html" title="CObjectFactory\&lt; CPoll \&gt;" alt="" coords="151,80,322,107"/>
+<area shape="rect" id="node4" href="$de/d86/class_i_polling.html" title="IPolling" alt="" coords="347,80,412,107"/>
+<area shape="rect" id="node5" href="$d0/ddc/class_i_ref_counted.html" title="IRefCounted" alt="" coords="331,5,427,32"/>
+</map>

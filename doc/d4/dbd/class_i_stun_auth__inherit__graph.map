@@ -1,0 +1,7 @@
+<map id="IStunAuth" name="IStunAuth">
+<area shape="rect" id="node3" href="$dd/df0/class_c_long_term_auth.html" title="CLongTermAuth" alt="" coords="5,155,123,181"/>
+<area shape="rect" id="node4" href="$d4/d7f/class_c_mock_auth_long.html" title="CMockAuthLong" alt="" coords="146,155,265,181"/>
+<area shape="rect" id="node5" href="$d4/d38/class_c_mock_auth_short.html" title="CMockAuthShort" alt="" coords="289,155,412,181"/>
+<area shape="rect" id="node6" href="$d2/d8e/class_c_short_term_auth.html" title="CShortTermAuth" alt="" coords="436,155,556,181"/>
+<area shape="rect" id="node2" href="$d0/ddc/class_i_ref_counted.html" title="IRefCounted" alt="" coords="229,5,325,32"/>
+</map>

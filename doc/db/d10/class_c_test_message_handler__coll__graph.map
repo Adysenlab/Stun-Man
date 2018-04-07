@@ -1,0 +1,14 @@
+<map id="CTestMessageHandler" name="CTestMessageHandler">
+<area shape="rect" id="node2" href="$de/da5/class_i_unit_test.html" title="IUnitTest" alt="" coords="685,5,761,32"/>
+<area shape="rect" id="node3" href="$d1/d37/class_c_ref_counted_ptr.html" title="CRefCountedPtr\&lt; CMockAuth\lLong \&gt;" alt="" coords="623,57,823,98"/>
+<area shape="rect" id="node4" href="$d4/d7f/class_c_mock_auth_long.html" title="CMockAuthLong" alt="" coords="397,57,515,84"/>
+<area shape="rect" id="node5" href="$db/d35/class_c_basic_ref_count.html" title="CBasicRefCount" alt="" coords="187,132,309,159"/>
+<area shape="rect" id="node12" href="$d4/d38/class_c_mock_auth_short.html" title="CMockAuthShort" alt="" coords="395,148,517,175"/>
+<area shape="rect" id="node6" href="$d1/d9a/class_c_object_factory.html" title="CObjectFactory\&lt; CMockAuth\lLong \&gt;" alt="" coords="151,15,345,57"/>
+<area shape="rect" id="node7" href="$d8/d13/class_i_stun_auth.html" title="IStunAuth" alt="" coords="208,81,288,108"/>
+<area shape="rect" id="node8" href="$d0/ddc/class_i_ref_counted.html" title="IRefCounted" alt="" coords="5,81,101,108"/>
+<area shape="rect" id="node9" href="$d3/d68/class_c_socket_address.html" title="CSocketAddress" alt="" coords="662,272,783,299"/>
+<area shape="rect" id="node10" href="$d7/d42/unionsimple__sockaddr.html" title="simple_sockaddr" alt="" coords="396,272,516,299"/>
+<area shape="rect" id="node11" href="$d1/d37/class_c_ref_counted_ptr.html" title="CRefCountedPtr\&lt; CMockAuth\lShort \&gt;" alt="" coords="623,122,823,163"/>
+<area shape="rect" id="node13" href="$d1/d9a/class_c_object_factory.html" title="CObjectFactory\&lt; CMockAuth\lShort \&gt;" alt="" coords="151,183,345,225"/>
+</map>
